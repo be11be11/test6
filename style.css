@@ -4,7 +4,7 @@
    .box {
   margin: 5px;
   width: 100%; 
-  height: 600px; 
+  max-height: 100%; 
   border:1px solid #93B4C4; 
   background-color: rgba(250,150,100,0.5); 
 }
@@ -12,7 +12,7 @@
    .minibox {
   margin: 5px;
   width: 100%; 
-  height: 600px; 
+  max-height: 100%; 
   border:1px solid #93B4C4; 
   background-image: url("jpg その他 image 1.JPEG");
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
    .box {
   margin: 5px;
   width: 100%; 
-  height: 750px; 
+   max-height: 100%; 
   border:1px solid #93B4C4; 
   background-color: rgba(150,50,10,0.5);
 }   
@@ -54,7 +54,7 @@
    .minibox {
   margin: 5px;
   width: 100%; 
-  height: 750px; 
+  max-height: 100%; 
   border:1px solid #93B4C4; 
   background-image: url("jpg その他 image 1.JPEG");
   background-repeat: no-repeat;
