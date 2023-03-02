@@ -59,6 +59,7 @@
   background-image: url("jpg その他 image 1.JPEG");
   background-repeat: no-repeat;
   background-size:contain;
+  background-position: center;  
 }
    
     .fixed {
