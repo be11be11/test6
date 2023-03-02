@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 .box {
-  margin: 20px;
+  margin: 5px;
   width:1500px; 
-  height: 800px; 
+  height: 700px; 
   border:1px solid #93B4C4; 
   background-color: rgba(30,60,90,0.5); 
 }
