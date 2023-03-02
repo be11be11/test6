@@ -6,7 +6,7 @@
   width: 100%; 
   height: 100%; 
   border:1px solid #93B4C4; 
-  background-color: rgba(30,60,90,0.5); 
+  background-color: rgba(60,40,30,0.5); 
 }
 .fixed {
    position: fixed; /* 固定配置 */
@@ -14,7 +14,7 @@
    right: 20px;  /* 基点（ウィンドウ）からの距離 */
    width: 20%;
    border:1px solid #D49999; 
-   background-color:rgba(90,60,30,0.5);
+   background-color:rgba(10,20,30,0.2);
 }
 p {
   text-align:center; 
@@ -33,7 +33,7 @@ p {
   width: 100%; 
   height: 100%; 
   border:1px solid #93B4C4; 
-  background-color: rgba(20,40,80,0.5); 
+  background-color: rgba(80,40,20,0.5);
 }
 .fixed {
    position: fixed; /* 固定配置 */
@@ -41,7 +41,7 @@ p {
    right: 20px;  /* 基点（ウィンドウ）からの距離 */
    width: 20%;
    border:1px solid #D49999; 
-   background-color:rgba(80,40,20,0.5);
+   background-color:rgba(20,30,40,0.2);
 }
 p {
   text-align:center; 
